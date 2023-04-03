@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370188765645",
+    "project_id": "papemo-80153",
+    "storage_bucket": "papemo-80153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370188765645:android:83ae68b0422bf21023dc84",
+        "android_client_info": {
+          "package_name": "com.example.pa_pemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370188765645-nm47shqp1amj20t2j4cqqkvki75anil1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8HruX7cvQ6GH1MbDbtB0ZK8yZQhTjitU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370188765645-nm47shqp1amj20t2j4cqqkvki75anil1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
